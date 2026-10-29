@@ -1,0 +1,14 @@
+LA BODEGUITA DRINKS - MAQUETA NEXT.JS + TYPESCRIPT
+
+Abrir carpeta en VS Code y ejecutar:
+
+npm install
+npm run dev
+
+Abrir http://localhost:3000
+
+Productos y precios: data/products.ts
+Logo: public/images/la-bodeguita-logo.png
+Estilos: app/globals.css
+
+Solo demostracion, sin pagos reales.
